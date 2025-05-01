@@ -30,7 +30,7 @@ Summary of findings with insights on how to structure prompts for optimal result
 ```
 # OUTPUT:
 ### Analysis of different types of prompting explain the various test scenarios.
-### USING CHATGPT:
+#### USING CHATGPT:
 ```
 Q. Roger has 5 tennis balls. He buys 2 more cans of tennis balls. Each can has 3 tennis balls. How many tennis balls does he have now?
 Ans: The answer is 11.
@@ -60,7 +60,7 @@ Ans: The last letter of "Lady" is "y". The last letter of "Gaga" is "a". Concate
 Q: A coin is heads up. Maybelle flips the coin. Shalonda does not flip the coin. Is the coin still heads up?
 Ans: The coin was flipped by Maybelle. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
 ```
-### USING GEMINI:
+#### USING GEMINI:
 ```
 Q: Roger has 5 tennis balls. He buys 2 more cans of tennis balls. Each can has 3 tennis balls. How many tennis balls does he have now? 
 Ans:Roger initially has 5 tennis balls. He buys 2 more cans, and each can contains 3 tennis balls. So, the number of additional tennis balls he gets is 2 cans * 3 balls/can = 6 balls. Therefore, Roger now has 5 balls (initial) + 6 balls (new) = 11 tennis balls.
