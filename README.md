@@ -83,9 +83,9 @@ Ans: The last letter of "Lady" is "y". The last letter of "Gaga" is "a". Concate
 Q: A coin is heads up. Maybelle flips the coin. Shalonda does not flip the coin. Is the coin still heads up?
 
 Ans: The coin was flipped by Maybelle. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
-```
+
 #### USING GEMINI:
-```
+
 Q: Roger has 5 tennis balls. He buys 2 more cans of tennis balls. Each can has 3 tennis balls. How many tennis balls does he have now? 
 
 Ans:Roger initially has 5 tennis balls. He buys 2 more cans, and each can contains 3 tennis balls. So, the number of additional tennis balls he gets is 2 cans * 3 balls/can = 6 balls. Therefore, Roger now has 5 balls (initial) + 6 balls (new) = 11 tennis balls.
@@ -151,7 +151,7 @@ Ans:The last letter of "Lady" is "y". The last letter of "Gaga" is "a".Concatena
 Q: A coin is heads up. Maybelle flips the coin. Shalonda does not flip the coin. Is the coin still heads up?
 
 Ans:The coin was flipped by Maybelle. So the coin was flipped 1 time, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no. Sources and related content
-```
+
 ### CONCLUSION:
 By seeing both the AI tools, the response are acceptable and little bit easy to understand. While seeing CHATGPT the content which it provide was huge and elaborate. Because of elaboration, it is very curious to learn
 and understand.In Gemini, the responses are simple. Within two lines I got a perfect answer for the sub-topic which I gave to it. For the topic, I got a short answer which is I require more. By comparing both of the Ai tools, The responses are too good and it helps us to understand easily without confusing ourself.
