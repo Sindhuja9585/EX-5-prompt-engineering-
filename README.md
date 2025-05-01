@@ -26,8 +26,8 @@ Deliverables:
 A table comparing ChatGPT's responses to naïve and basic prompts across all scenarios.
 Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs.
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
-```
 
+```
 # OUTPUT:
 ### Analysis of different types of prompting explain the various test scenarios.
 ### USING CHATGPT:
